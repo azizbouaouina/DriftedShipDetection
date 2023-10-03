@@ -17,27 +17,27 @@ You can check out a demo of the app via these screenshots.
 
 This is the home page of the app. 
 
-![1](https://github.com/azizbouaouina/testtest/assets/104959387/244dce25-c12c-46ed-8d62-eaa87381bad4)
+![1](https://github.com/azizbouaouina/DriftedShipDetection/assets/104959387/2483f955-eb1f-4ff2-a868-f54bb8810142)
 
 - When you click on "Annotation Dérive", you will be directed to the window below.
 
 In this window, you can select CSV files for labeling. To simplify the process, use the cursor to specify the drift interval if it exists, instead of manually editing each line in the CSV file for every file.
 
-![2](https://github.com/azizbouaouina/testtest/assets/104959387/4008b660-b68f-46e1-8ad8-e276ce734e6d)
+![2](https://github.com/azizbouaouina/DriftedShipDetection/assets/104959387/0cd0bd75-be34-4653-97e1-755a1f7d55a7)
 
-![3](https://github.com/azizbouaouina/testtest/assets/104959387/a0ba0961-dce2-42be-86b3-135972fc9be6)
+![3](https://github.com/azizbouaouina/DriftedShipDetection/assets/104959387/3eb05e9e-419c-480d-8ceb-f52b7d4bb46f)
 
 - When you click on "Entrainer et sauvegarder un modèle", you will be directed to the window below.
 
 In this window, you can select the deep learning model you want to train and specify the hyperparameters to be used. If the results from the confusion matrix meet your satisfaction, you can save the model for future use on new data.
 
-![4](https://github.com/azizbouaouina/testtest/assets/104959387/ff872011-80fe-4b76-9c7a-d12b030b5ad0)
+![4](https://github.com/azizbouaouina/DriftedShipDetection/assets/104959387/6943e4d6-cd89-4733-ae5b-2f26997c2f61)
 
 - When you click on "Importer un modèle et le tester", you will be directed to the window below.
 
 In this window, you can test saved models on untrained data and detect drift intervals for individual ships, multiple ships, or for the entire day of ship data.
 
-![5](https://github.com/azizbouaouina/testtest/assets/104959387/9bc648c0-0574-42b9-9471-9153cc93177a)
+![5](https://github.com/azizbouaouina/DriftedShipDetection/assets/104959387/1ea16362-21a7-4d3c-806b-7f2982a3f5b4)
 
 
 ## Installation
