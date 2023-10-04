@@ -45,6 +45,6 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/my-awesome-web-app.git
+   git clone https://github.com/azizbouaouina/DriftedShipDetection
 
 2. Run the 'Application Dérive.py' file, but please note that you won't be able to access the app's features as it requires additional files, including the dataset, which are not provided for privacy reasons.
